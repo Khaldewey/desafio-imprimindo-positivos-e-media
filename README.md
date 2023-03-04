@@ -1,20 +1,22 @@
 # O código fonte se encontra no arquivo main dentro da pasta src
 # Desafio
-Neste desafio, faça um programa que calcule o valor de H com N termos. 
-
-Sendo, H = 1 + 1/2 + 1/3 + 1/4 + ... + 1/N.
+Leia 6 valores. Em seguida, mostre quantos destes valores digitados foram positivos. Na próxima linha, deve-se mostrar a média de todos os valores positivos digitados, com um dígito após o ponto decimal.
 
 ## Entrada
-A entrada consiste em um número inteiro positivo. 
+A entrada contém 6 números que podem ser valores inteiros ( int ) ou de ponto flutuante ( float ou double ). Pelo menos um destes números será positivo.
 
 ## Saída
-Na saída será impresso o valor que representa a soma dos termos. 
+O primeiro valor de saída é a quantidade de valores positivos. A próxima linha deve mostrar a média dos valores positivos digitados. 
 
 ## Exemplo : 
 
 Entrada  | Saída |
 :---------: | :---------:|
-4        |  2
-8       | 3
+7        |  4 valores positivos
+-5       |  7,4
+6|
+-3.4|
+4.6|
+12|
 3|    2
 
